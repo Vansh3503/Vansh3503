@@ -1,4 +1,4 @@
-![logo](https://github.com/Vansh3503/Vansh3503/blob/main/person-using-ai-tool-job.jpg)
+
 <h1 align="center">Hi 👋, I'm Vansh Malhotra</h1>
 <h3 align="center">An aspiring engineer and data enthusiast skilled in Python, C++, Artificial Intelligence, Machine Learning.</h3>
 <img align="right" alt="cding" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470zg4malfhawvr67ld2vhy3m7ruzv7zhn1maz4jl1&ep=v1_gifs_search&rid=giphy.gif&ct=g">
