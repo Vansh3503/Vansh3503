@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://vanshportfolio.framer.website/#about](https://vanshportfolio.framer.website/#about)
+- 👨‍💻 All of my projects are available at [https://vanshportfolio.framer.website/#about](https://vansh-ml-portfolio.framer.website/#about)
 
 - 💬 Ask me about **python,Artificial Intelligence and ML**
 
